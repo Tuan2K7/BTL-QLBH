@@ -11,7 +11,13 @@ CÁC THÀNH VIÊN NHÓM:
 - Thành phần hóa đơn : int mã món, int cấp độ, int số lượng, float đơn giá, float thành tiền. 
 - Hóa đơn gồm : int số hóa đơn (mã hóa đơn), int so_item số lượng món, ItemHoaDon items[MAX_ITEM] giới hạn số lượng món trong hóa đơn, float tong_tien (tính tổng số tiền các món trong hóa đơn đấy). 
 - Global menu.
-# Chức năng: Đặt món / tạo hóa đơn, xem tất cả hóa đơn, thêm hóa đơn, xóa món, giảm giá, in hóa đơn,.
+# Chức năng: 
+- Đặt món / tạo hóa đơn
+- Xem tất cả hóa đơn
+- Thêm hóa đơn
+- Xóa món
+- Giảm giá
+- In hóa đơn,.
 # Yêu cầu: Định nghĩa struct và biến toàn cục.
 - Khởi tạo và hiển thị thực đơn: .c và .h
  + .h (Header File) chứa: Khai báo hàm, khai báo struct, khai báo hằng số, thư viện dùng chung.
