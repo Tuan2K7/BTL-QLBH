@@ -23,7 +23,7 @@ CÁC THÀNH VIÊN NHÓM:
  + .h (Header File) chứa: Khai báo hàm, khai báo struct, khai báo hằng số, thư viện dùng chung.
  + .c là file thực thi.
 # Dữ liệu đầu vào:
-- Gồm 6 món ăn: thập cẩm,đùi gà,bò,bạch tuộc,xúc xích,hải sản.
+- Gồm 6 món mì cay: thập cẩm, đùi gà, bò, bạch tuộc, xúc xích, hải sản.
 - Mã món ăn: 1->6.
 - Cấp độ cay: 1->7.
 Mã giảm giá(Robux): >=0.
