@@ -17,7 +17,7 @@ CÁC THÀNH VIÊN NHÓM:
 - Thêm hóa đơn
 - Xóa món
 - Giảm giá
-- In hóa đơn,.
+- In hóa đơn.
 # Yêu cầu: Định nghĩa struct và biến toàn cục.
 - Khởi tạo và hiển thị thực đơn: .c và .h
  + .h (Header File) chứa: Khai báo hàm, khai báo struct, khai báo hằng số, thư viện dùng chung.
